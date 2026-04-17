@@ -74,3 +74,7 @@ Enhance customer satisfaction
 
 <img width="1437" height="801" alt="ecommerce Dashboard" src="https://github.com/user-attachments/assets/91b0325f-cbcf-407a-9cc2-2109ae8c3a5b" />
 
+
+
+Note: Due to file size limitations, only a sample dataset is included. The full dataset was used for analysis and dashboard creation.
+
