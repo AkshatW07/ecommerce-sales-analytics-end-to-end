@@ -60,5 +60,8 @@ Improve discount effectiveness
 Identify high-performing products and brands
 Enhance customer satisfaction
 
+
+📷 Dashboard Preview
+
 <img width="1437" height="801" alt="ecommerce Dashboard" src="https://github.com/user-attachments/assets/91b0325f-cbcf-407a-9cc2-2109ae8c3a5b" />
 
