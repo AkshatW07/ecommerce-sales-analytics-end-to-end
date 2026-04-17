@@ -6,8 +6,17 @@
 Project Overview
 This project analyzes e-commerce product data to uncover insights related to pricing, discounts, and product performance. The goal is to help businesses make data-driven decisions to improve revenue and customer satisfaction.
 
- Problem Statement
-How can an e-commerce platform improve revenue and product performance using data?
+ 🎯 Business Problem
+
+In a competitive e-commerce environment, businesses need to make data-driven decisions to maximize revenue while maintaining product quality and customer satisfaction. 
+
+However, challenges arise due to:
+- Inefficient pricing strategies
+- Overuse or misuse of discounts
+- Presence of low-performing products in the catalog
+
+This project aims to answer:
+How can pricing, discount patterns, and product performance data be leveraged to improve revenue and customer satisfaction?
 
 
 
